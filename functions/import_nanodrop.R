@@ -7,6 +7,9 @@
 # Output: merged_data with all collumns
 
 # USAGE
+# Load the function from GitHub
+# source("https://raw.githubusercontent.com/SWi1/helper-functions/main/functions/import_nanodrop.R")
+
 # Set path to directory where files are stored
 # wd = "/path/to/folder/withNanodropfiles"
 
